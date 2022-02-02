@@ -1,2 +1,1 @@
-# learn-graphql
-Learn GraphQL
+# Learn GraphQL
